@@ -4,3 +4,4 @@
 These aren't going to be incredibly difficult challenges. They are more meant to give me experience in those languages and to create a daily habit.
 
 Day 1: Hello World challenge. Simply create programs that print out 'hello world' to the console.
+Day 2: Adding three numbers together
