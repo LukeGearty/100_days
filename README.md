@@ -6,4 +6,4 @@ These aren't going to be incredibly difficult challenges. They are more meant to
 Day 1: Hello World challenge. Simply create programs that print out 'hello world' to the console.
 Day 2: Adding three numbers together
 Day 3: converting minutes to seconds
-Day 4: converting
+Day 4: saying happy birthday to a person
