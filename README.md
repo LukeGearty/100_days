@@ -7,3 +7,4 @@ Day 1: Hello World challenge. Simply create programs that print out 'hello world
 Day 2: Adding three numbers together
 Day 3: converting minutes to seconds
 Day 4: saying happy birthday to a person
+Day 5: Programming a countdown from 5 to 1
