@@ -8,3 +8,4 @@ Day 2: Adding three numbers together
 Day 3: converting minutes to seconds
 Day 4: saying happy birthday to a person
 Day 5: Programming a countdown from 5 to 1
+Day 6: Take a number and tells whether it is odd or even
