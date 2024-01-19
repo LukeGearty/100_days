@@ -19,7 +19,6 @@ def fibonacci(num):
             second_num = first_num + second_num
             first_num = temp
             count+=1
-    
         return fibonacci[:num]
 
 def main():

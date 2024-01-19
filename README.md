@@ -19,4 +19,4 @@ Day 6: Take a number and tells whether it is odd or even
 
 Day 7: whether a number is a multiple of 3 or 5 or both
 
-Day 8: The Fibonacci sequence
+Day 8: The Fibonacci sequence.
