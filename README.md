@@ -22,3 +22,5 @@ Day 7: whether a number is a multiple of 3 or 5 or both
 Day 8: The Fibonacci sequence.
 
 Day 9: The prime factors of a number
+
+Day 10: Sum of the even valued terms of the fibonacci sequence
