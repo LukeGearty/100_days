@@ -23,4 +23,4 @@ Day 8: The Fibonacci sequence.
 
 Day 9: The prime factors of a number
 
-Day 10: Sum of the even valued terms of the fibonacci sequence
+Day 10: ASCII Art of my initials
