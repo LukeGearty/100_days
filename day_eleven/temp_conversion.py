@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 def convert_temp():
-    unit = input("Type F for Fahrenheit or C for Celcius: ")
+    unit = input("Type F to enter in Fahrenheit or C to enter in Celcius: ")
 
     if unit.upper() == "F":
         temperature = float(input("Enter the temperature in fahrenheit:"))
