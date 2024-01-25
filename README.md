@@ -28,3 +28,5 @@ Day 10: ASCII Art of my initials
 Day 11: Calculating celcius from fahrenheit, and vice versa
 
 Day 12: Calculating the average of a class
+
+Day 13: Printing the shape of an hourglass in C++
