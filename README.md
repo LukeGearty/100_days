@@ -1,5 +1,11 @@
 # 100_days
-100 days of coding problems and challenges that I have found from across the internet. The goal is to create a habit of coding and showcasing knowledge across a few programming languages. I want to use Python, Javascript, and C++ to do this challenge. For Javascript, the goal was to also use the Document Object Model, so I used HTML files as well. 
+100 days of coding problems and challenges that I have found from across the internet. The goal is to create a habit of coding and showcasing knowledge across a few programming languages. 
+
+Originally, I wanted to use Python, Javascript, and C++ to do this challenge. For Javascript, the goal was to also use the Document Object Model, so I used HTML files as well. 
+
+However, that became more difficult as my studies continued. 
+
+I still want to continue using those languages, but after a few challenges the new challenge became to just code every day.
 
 These aren't going to be incredibly difficult challenges. They are more meant to give me experience in those languages and to create a daily habit.
 
@@ -30,3 +36,5 @@ Day 11: Calculating celcius from fahrenheit, and vice versa
 Day 12: Calculating the average of a class
 
 Day 13: Printing the shape of an hourglass in C++
+
+Day 14: Determining if a number is a palindrome
