@@ -40,3 +40,5 @@ Day 13: Printing the shape of an hourglass in C++
 Day 14: Determining if a number is a palindrome
 
 Day 15: 2 C++ printing problems
+
+Day 16: a collection of problems. Calculating credit card balance, printing problem, and a game of rock paper scissors.
