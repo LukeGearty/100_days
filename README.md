@@ -41,6 +41,10 @@ Day 14: Determining if a number is a palindrome
 
 Day 15: 2 C++ printing problems
 
+<<<<<<< HEAD
 Day 16: A few practice problems from my 'Problem Solving in C++' textbook
 
 Day 17: Working with arrays
+=======
+Day 16: a collection of problems. Calculating credit card balance, printing problem, and a game of rock paper scissors.
+>>>>>>> 18a25e6a4f59a45759d2b5ce465cb8e50f2ed1a4
