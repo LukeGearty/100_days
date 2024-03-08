@@ -45,3 +45,8 @@ Day 16: a collection of problems. Calculating credit card balance, printing prob
 
 Day 17: Working with arrays
 
+Day 18: practicing functions and pointers in C++
+
+Day 19-48: Hacker Rank 30 days of Code
+
+
