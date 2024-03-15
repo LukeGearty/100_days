@@ -3,12 +3,18 @@
 length = int(input())
 dict = {}
 for i in range(length):
-    key_and_value = input().split()
-    dict[key_and_value[0]] = key_and_value[1]
+    try: 
+        key_and_value = input().split()
+        dict[key_and_value[0]] = key_and_value[1]
+    except:
+        break
 
 for i in range(length):
-    name = input()
-    if name in dict:
-        print(f"{name}={dict[name]}")
-    else:
-        print("Not found")
+    try:
+        name = input()
+        if name in dict:
+            print(name, "=", dict[name], sep="")
+        else:
+            print("Not found")
+    except:
+        break
